@@ -1,4 +1,11 @@
 {
+  "name": "classwave",
+  "version": "0.0.1",
+  "description": "A school announcements server written in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
